@@ -1,0 +1,46 @@
+$text_file1_start
+
+https://icssr.org/sites/default/files/DF-Annexure-I-GEN-2019-20-rev.pdf
+List of Awardees of ICSSR Centrally Administered Full-Term Doctoral Fellowship    in the Year 2019-20 (General Categor
+
+
+
+
+angarey sajjad zaheer
+
+
+
+Ayesha : Mohammed's favourite wife (Book, 1961)[Kurt Frischler]
+
+
+https://archive.org/details/GandhiAndGodse/mode/2up
+
+the gene siddhartha mukherjee
+
+My name is niteesh
+
+Upadesa Sara  Swami Tejomayananda  chinmaya
+Mystery of Creation   Mananam Series 
+
+Tattvabodh   Swami Tejomayananda
+
+
+
+The Logic of Spirituality  Swami Chinmayananda   ######## youtube playlist \/
+
+
+
+
+All Matter is Nothing but energy. Dynamism is the great law of the universe. Change and movement occur eternally, symbolized by Shiva's Dance.
+
+Add /usr/local/texlive/2020/texmf-dist/doc/man to MANPATH.
+Add /usr/local/texlive/2020/texmf-dist/doc/info to INFOPATH.
+Most importantly, add /usr/local/texlive/2020/bin/x86_64-linux
+to your PATH for current and future sessions.
+Logfile: /usr/local/texlive/2020/install-tl.log
+
+
+export PATH="/home/beril/anaconda3/bin:$PATH"
+
+to ehcck lesplngi rceroct kissatme
+$text_file1_end
